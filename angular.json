@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "onehouse"
+    }
+  },
+  "defaultProject": "onehouse",
+  "cli": {
+    "analytics": "a10b42a5-3ef1-4abb-b92f-6a117c3594c2"
+  }
 }
